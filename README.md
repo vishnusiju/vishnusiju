@@ -4,6 +4,7 @@
 
 
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<img align="right"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  I'm a full-stack developer, I love programming, writing, speaking and traveling.<br><br>
   
   As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal
@@ -12,7 +13,7 @@
   
 ## Talking about Personal Stuffs:
 
-<img align="right"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
  
 - 👋 Hi, I’m @vishnusiju  <br>
 - 👀 I’m interested in Web development   <br>
