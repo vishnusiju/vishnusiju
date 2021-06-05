@@ -11,30 +11,30 @@
 	things that make a difference. <br><br>
   
 ## Talking about Personal Stuffs:
+
+<img align="right"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  
 - 👋 Hi, I’m @vishnusiju  <br>
 - 👀 I’m interested in Web development   <br>
-- 🌱 I'm currently learning Web development   <br>
+- 🌱 I'm currently learning  Python & Django  <br>
 - 💞️ I’m looking to collaborate on    <br>
 - 📫 How to reach me ...   <br>
 
 ## Ask me about :computer:👨
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Programming Language** 💻
-	- Python 
+	- Python :white_check_mark:
 	- C#
 	- PHP
-	- SQL
-	- Dart etc...
+	- SQL etc...
 
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- PHP
-	- Django
+	- Django etc...
 
 - **Shell Scripting**
 
