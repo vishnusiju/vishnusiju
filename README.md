@@ -18,7 +18,7 @@
 - 👋 Hi, I’m @vishnusiju  <br>
 - 👀 I’m interested in Web development   <br>
 - 🌱 I'm currently learning  Python & Django  <br> 
-- 💞️ I’m looking to collaborate on    <br>
+<!-- - 💞️ I’m looking to collaborate on    <br> -->
 - 📫 How to reach me : vishnusiju997@gmail.com   <br>
 
 ## Ask me about :computer:👨
