@@ -5,7 +5,7 @@
 
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <img align="right"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
- I'm a full-stack developer, <!--I love programming, writing, speaking and traveling. --><br><br>
+ I'm a full-stack web developer, <!--I love programming, writing, speaking and traveling. --><br><br>
   
   As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal
  love for making things that change the world. That's why I like to make
