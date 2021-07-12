@@ -17,34 +17,44 @@
  
 - 👋 Hi, I’m @vishnusiju  <br>
 - 👀 I’m interested in Web development   <br>
-- 🌱 I'm currently learning  Python & Django  <br> 
+- 🌱 I'm currently learning  Reactjs & nodejs <br> 
 <!-- - 💞️ I’m looking to collaborate on    <br> -->
 - 📫 How to reach me : vishnusiju997@gmail.com   <br>
 
 ## Ask me about :computer:👨
 
 
-- **Programming Language** 💻
+<!-- - **Programming Language** 💻
 	- Python :white_check_mark:
-	- C#
+	- C# -->
 <!-- 	-  etc... -->
 
 
 - **Web Development**
-	- HTML, CSS 
+	- HTML
+	- CSS 
 	- Javascript :white_check_mark:
 	- Bootstrap
 	- React-Js :white_check_mark:
-	- Django etc...
+	- Nodejs etc...
 
 - **Server-side**
 	- MySql
 	- PostgreSQL
 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<!-- <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code> -->
+<!-- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code> -->
+
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+
+
+<!-- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code> -->
+<!-- <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code> -->
 <br/><br/>
 
 
@@ -54,7 +64,7 @@
 </br>
 
 
->  *"Design is not just what it looks like and feels like.Design is how it works" - Steve jobs*
+>  *"Design is not just what it looks like and feels like. Design is how it works" - Steve jobs*
 
 #
 
