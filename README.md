@@ -29,10 +29,9 @@
 	- C# -->
 <!-- 	-  etc... -->
 
-
-- **Web Development**
-	- HTML
-	- CSS 
+- **Web Development**                                            
+	- HTML				               
+	- CSS 					       
 	- Javascript :white_check_mark:
 	- Bootstrap
 	- React-Js :white_check_mark:
@@ -43,6 +42,11 @@
 	- PostgreSQL
 
 
+
+<hr>
+<!-- <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/800px-MERN-logo.png"><br> -->
+<img align="center" src="https://i.pinimg.com/originals/07/3e/a8/073ea8b86447ed9310e7e73bd89894b3.png">
+
 <!-- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code> -->
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -50,6 +54,8 @@
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
 
 <!-- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code> -->
