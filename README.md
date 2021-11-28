@@ -17,7 +17,7 @@
  
 - 👋 Hi, I’m @vishnusiju  <br>
 - 👀 I’m interested in Web development   <br>
-- 🌱 I'm currently learning  Reactjs & nodejs <br> 
+- 🌱 I'm currently learning  React_js & Java <br> 
 <!-- - 💞️ I’m looking to collaborate on    <br> -->
 - 📫 How to reach me : vishnusiju997@gmail.com   <br>
 
@@ -35,11 +35,11 @@
 	- Javascript :white_check_mark:
 	- Bootstrap
 	- React-Js :white_check_mark:
-	- Nodejs etc...
+	- Java etc...
 
 - **Server-side**
 	- MySql
-	- PostgreSQL
+<!-- 	- PostgreSQL -->
 
 
 
