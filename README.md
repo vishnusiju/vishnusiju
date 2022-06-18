@@ -3,7 +3,7 @@
 # Vishnu Siju  
 
 
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px" height="3px"> 
 <img align="right"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 Hi, my name is Vishnu Siju, I'm a designer, developer.
 <!--  I'm a full-stack web developer, <!--I love programming, writing, speaking and traveling. --><br><br> 
