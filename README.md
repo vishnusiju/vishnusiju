@@ -101,6 +101,140 @@ Visit my profile and give a ⭐️
 
 
 
+
+***Hi, I'm Vishnu Siju 👋***<br>
+Full Stack Java Developer | Experienced | Proficient | Result-Oriented
+
+🌟 About Me <br>
+As a Full Stack Java Developer with 3 years of experience, I specialize in creating robust web applications with a strong focus on both frontend and backend development. With a passion for detail-oriented design and problem-solving, I strive to build solutions that enhance productivity and make a real impact 🌍.
+
+
+💼 Professional Summary
+*   Proficient in Java, Angular, Spring Boot, Microservices, and MySQL.
+*   Expertise in designing, developing, and maintaining web applications using modern tech stacks.
+*   Skilled in collaborating with cross-functional teams to deliver high-quality software solutions.
+*   Recognized with the Award of Recognition and Appreciation (April 2023).
+
+
+✨ Personal Insights
+*  👋 Who am I?: A designer and developer deeply committed to the craft.
+*  👀 What interests me?: Web development and turning ideas into reality.
+*  🌱 What am I learning?: Mastering React.js & Java to expand my skillset.
+*  📫 How to reach me?: vishnusiju997@gmail.com
+
+🌱 Interests
+*   I'm fascinated by innovative technologies and how they can make lives easier. Whether it's frontend magic or backend logic, I'm here to build it all!
+
+🧠 Core Competencies
+*   Software Development Lifecycle (SDLC): Expertise in end-to-end development processes.
+*   Problem-Solving: Strong analytical and troubleshooting skills.
+*   Requirement Gathering & Analysis: Collaborating with stakeholders to define clear requirements.
+*   Interpersonal Skills: Effective communicator and team player.
+*   Project Management & Coordination: Driving projects to completion on time and within scope.
+
+
+💼 Key Achievements
+*   Award of Recognition and Appreciation (April 2023).
+
+
+🚀 What I’ve Worked On
+**Web Application Development:**
+
+*   Designed and developed web applications with Angular for the frontend and Spring Boot for the backend.
+Collaborated with the database team to design and optimize complex queries.
+
+Agile Development:
+
+*   Participated in daily stand-ups, sprint planning, and retrospectives as part of Agile teams.
+* 
+Quality Assurance:
+
+*   Conducted unit testing and integration testing to ensure robust and reliable software.
+Worked closely with QA teams to debug and enhance application functionality.
+
+
+🚀 Experience Highlights
+    **Developed and Designed:**
+       * Web applications using Angular (frontend) and Spring Boot (backend).
+    **Database Expertise:**
+       * Collaborated with the database team to design and optimize complex queries.
+    **Agile Practices:**
+       * Actively participated in daily stand-ups, sprint planning, and retrospectives.
+    **Testing & QA:**
+       * Conducted unit testing and integration testing to ensure high-quality software delivery.
+       * Worked closely with QA teams to identify and resolve bugs, enhancing application functionality.
+
+
+
+💡 What I Can Help With
+If it’s about Web Development, ask me anything!
+
+Frontend:
+
+HTML, CSS, JavaScript ✅
+Bootstrap
+React.js ✅
+Backend:
+
+Java
+MySQL
+
+
+🌱 Currently Learning
+*   React.js
+*   Advanced Java
+
+
+📫 Let’s Connect
+*   📩 Email: vishnusiju997@gmail.com
+*   💻 Ask me about: Web Development, Java, React.js, or MySQL
+
+
+💻 My Vision
+-   I’m driven by a love for creating, learning, and contributing to projects that push boundaries. Let’s collaborate to shape the future, one line of code at a time.
+
+
+🛠 Technical Skills ✨
+- **Frontend Development**                                            					       
+	- Angular :white_check_mark:
+	- HTML5, CSS3, Bootstrap
+	- JavaScript, TypeScript :white_check_mark:
+ - **Backend Development**                                            					       
+	- Java, Spring Boot :white_check_mark:
+	- RESTful Web Services
+	- Microservices Architecture :white_check_mark:
+- **Databases**                                            				       
+	- MySQL :white_check_mark:
+	- PostgreSQL
+	- MongoDB :white_check_mark:
+ - **Tools & Platforms**                                            				       
+	- Git, GitHub :white_check_mark:
+	- Jenkins, JIRA
+	- IntelliJ IDEA, Eclipse, VS Code :white_check_mark:
+ - **Other Expertise**                                            				       
+	- Agile/Scrum Methodologies :white_check_mark:
+	- Unit Testing (JUnit, Mockito)
+	- Continuous Integration/Continuous Deployment (CI/CD)
+
+
+✨ Personal Insights
+*  👋 Who am I?: A designer and developer deeply committed to the craft.
+*  👀 What interests me?: Web development and turning ideas into reality.
+*  🌱 What am I learning?: Mastering React.js & Java to expand my skillset.
+*  📫 How to reach me?: vishnusiju997@gmail.com  -
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 vishnusiju/vishnusiju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
