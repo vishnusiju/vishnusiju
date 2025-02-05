@@ -1,3 +1,75 @@
+👋 Hi, I'm Vishnu Siju
+🚀 Full Stack Java Developer | 3+ Years Experience
+
+I specialize in building scalable web applications with Java, Angular, and Spring Boot. Passionate about clean code, problem-solving, and creating impactful digital solutions.
+
+💼 Professional Summary
+✔ Tech Stack: Java, Spring Boot, Microservices, Angular, React.js, MySQL
+✔ Expertise: Full-stack development, REST APIs, Agile methodologies
+✔ Key Achievement: Award of Recognition & Appreciation (April 2023)
+
+🔥 What I Do Best
+✅ Frontend: Angular, React.js, JavaScript, TypeScript, Bootstrap
+✅ Backend: Java, Spring Boot, Microservices, REST APIs
+✅ Databases: MySQL, PostgreSQL, MongoDB
+✅ Dev Tools: Git, GitHub, Jenkins, JIRA, IntelliJ IDEA, VS Code
+✅ Best Practices: Agile/Scrum, Unit Testing (JUnit, Mockito), CI/CD
+
+🌱 Currently Learning
+React.js to enhance frontend capabilities
+Advanced Java for deeper backend expertise
+🚀 What I’ve Built
+📌 Web Applications: Full-stack apps with Angular & Spring Boot
+📌 Agile Development: Daily stand-ups, sprint planning, and retrospectives
+📌 Quality Assurance: Unit testing & integration testing for robust software
+
+💡 Let’s Connect!
+📩 Email: vishnusiju997@gmail.com
+💻 Ask me about: Web Development, Java, React.js, MySQL
+🔗 LinkedIn | Instagram | Twitter (Add your links)
+
+⭐ If you like my work, consider giving a star!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Vishnu Siju  
