@@ -65,7 +65,7 @@ I'm fascinated by innovative technologies and how they can make lives easier. Wh
 
 ##
 
->  *"Design is not just what it looks like and feels like. Design is how it works" - Steve jobs* 🚀
+>  *"Development isn't just about writing code—it’s about building solutions that work seamlessly. 🚀* 
 
 #
 
