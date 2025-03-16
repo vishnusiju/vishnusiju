@@ -1,6 +1,6 @@
 
-# 👋 Hi, I'm Vishnu Siju  
-🚀 Full Stack Java Developer | 3+ Years Experience <br>  
+# 👋 Hi, I'm Vishnu Siju - ( Software Engineer )
+🚀 Full Stack Java Developer | 3+ Years Experience | Angular & Spring Boot | Java 8 | SQL & NoSQL | Microservices | Problem Solver <br>
 
 
 
