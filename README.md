@@ -5,7 +5,7 @@
 
 
 ## 💡 About Me
-As a Full Stack Java Developer with 3 years of experience, I specialize in creating robust web applications with a strong focus on both frontend and backend development. With a passion for detail-oriented design and problem-solving, I strive to build solutions that enhance productivity and make a real impact 🌍.
+As a Full Stack Java Developer with 3+ years of experience, I specialize in creating robust web applications with a strong focus on both frontend and backend development. With a passion for detail-oriented design and problem-solving, I strive to build solutions that enhance productivity and make a real impact 🌍.
 <img align="right"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 👨‍💻 Full Stack Developer specialized in Java, Spring Boot, Angular, and Microservices.
 - 🔍 Problem Solver with a keen eye for detail and optimization.
