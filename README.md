@@ -32,7 +32,7 @@ As a Full Stack Java Developer with 3+ years of experience, I specialize in crea
 I'm fascinated by innovative technologies and how they can make lives easier. Whether it's frontend magic or backend logic, I'm here to build it all!
 
 ## 📫 Let’s Connect!
-- 📫 How to reach me?: vishnusiju997@gmail.com
+- 📫 How to reach me?: vishnusiju123@gmail.com
 - 🔗 Socials : <a href = "https://www.linkedin.com/in/vishnu-siju/"> LinkedIn </a>
 ##
 
